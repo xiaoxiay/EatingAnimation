@@ -1,3 +1,4 @@
+该页面完全由ai替我完成，除这段文字以外的所有文件、内容全部交给了qwen3.7max来完成。
 # Eating Animation
 
 <img align="right" width="160" src="src/main/resources/assets/eatinganimationid/eatinganimationicon.png">
