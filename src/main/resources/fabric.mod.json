@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "eatinganimationid",
+  "version": "${version}",
+
+  "name": "Eating Animation",
+  "description": "This mod adds simple sprite animation when you eat or drink something.",
+  "authors": [
+    "theone_ss", "spusik_", "PinkGoosik", "DoctorNight1"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/members/theone_ss",
+    "sources": "https://github.com/Theoness1/EatingAnimation"
+  },
+
+  "license": "MIT",
+  "icon": "assets/eatinganimationid/eatinganimationicon.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "client": ["ru.tpsd.eatinganimationmod.EatingAnimationClientMod"]
+  },
+
+  "depends": {
+    "fabricloader": "*",
+    "fabric-api": "*",
+    "minecraft": ">=26.2",
+    "java": ">=25"
+  }
+}
